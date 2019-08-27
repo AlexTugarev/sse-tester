@@ -1,0 +1,11 @@
+{
+  "name": "sse-tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlexTugarev/sse-tester.git",
+  "author": "Alex Tugarev <alex.tugarev@typefox.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
